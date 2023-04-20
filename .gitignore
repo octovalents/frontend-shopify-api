@@ -1,0 +1,22 @@
+# dependencies
+/node_modules
+
+# build output
+/dist
+
+# environment variables
+.env
+
+# log files
+*.log
+
+# IDE and editor files
+/.idea
+.vscode
+*.swp
+.DS_Store
+
+# misc
+*.tmp
+*.bak
+*.orig
